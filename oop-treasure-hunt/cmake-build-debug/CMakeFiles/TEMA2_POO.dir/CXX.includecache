@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/Robot.h
+string
+-
+vector
+-
+iostream
+-
+mapp.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/mapp.h
+
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/game.h
+mapp.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/mapp.h
+robot.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/robot.h
+item.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/item.h
+trap.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/trap.h
+fstream
+-
+
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/item.h
+mapp.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/mapp.h
+robot.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/robot.h
+
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/main.cpp
+iostream
+-
+game.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/game.h
+
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/mapp.h
+utility
+-
+vector
+-
+fstream
+-
+
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/robot.h
+string
+-
+vector
+-
+iostream
+-
+mapp.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/mapp.h
+
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/trap.h
+Robot.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/Robot.h
+mapp.h
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/mapp.h
+

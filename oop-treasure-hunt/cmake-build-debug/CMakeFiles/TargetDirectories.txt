@@ -1,0 +1,3 @@
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/cmake-build-debug/CMakeFiles/TEMA2_POO.dir
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Anca Ilicea/Desktop/TEMA2-POO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
