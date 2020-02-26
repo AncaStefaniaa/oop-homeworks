@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/SEMESTRUL2/OOP/TEMA1/Queue.h
+iostream
+-
+
+D:/SEMESTRUL2/OOP/TEMA1/main.cpp
+iostream
+-
+Queue.h
+D:/SEMESTRUL2/OOP/TEMA1/Queue.h
+
+D:/SEMESTRUL2/OOP/TEMA1/queue.cpp
+Queue.h
+D:/SEMESTRUL2/OOP/TEMA1/Queue.h
+iostream
+-
+

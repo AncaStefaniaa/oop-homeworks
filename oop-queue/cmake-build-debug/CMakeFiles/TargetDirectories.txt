@@ -1,0 +1,3 @@
+D:/SEMESTRUL2/OOP/TEMA1/cmake-build-debug/CMakeFiles/TEMA1.dir
+D:/SEMESTRUL2/OOP/TEMA1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/SEMESTRUL2/OOP/TEMA1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
